@@ -52,7 +52,7 @@ public class Runes {
     }
 
     // TRADUCTOR
-    public StringBuilder translate(String cadena, HashMap map) {
+            public StringBuilder translate(String cadena, HashMap map) {
 
         StringBuilder traduccion = new StringBuilder();
         cadena = cadena.toLowerCase();
