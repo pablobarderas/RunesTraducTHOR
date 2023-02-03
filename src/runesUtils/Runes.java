@@ -11,32 +11,32 @@ public class Runes {
         HashMap<Character, Character> alphabet = new HashMap<>();
 
         // ASIGNAR VALORES
-        alphabet.put('f','\u16A0');
-        alphabet.put('u','\u16A2');
-        alphabet.put('t','\u16A6');
-        alphabet.put('a','\u16A8');
-        alphabet.put('r','\u16B1');
-        alphabet.put('k','\u16B2');
-        alphabet.put('v','\u16B9');
-        alphabet.put('g','\u16B7');
-        alphabet.put('w','\u16B9');
-        alphabet.put('h','\u16BA');
-        alphabet.put('n','\u16BE');
-        alphabet.put('i','\u16C1');
-        alphabet.put('j','\u16C3');
-        alphabet.put('y','\u16C7');
-        alphabet.put('p','\u16C8');
-        alphabet.put('z','\u16C9');
-        alphabet.put('s','\u16CB');
-        alphabet.put('b','\u16D2');
-        alphabet.put('e','\u16D6');
-        alphabet.put('m','\u16D7');
-        alphabet.put('l','\u16DA');
-        alphabet.put('o','\u16DF');
-        alphabet.put('d','\u16DE');
-        alphabet.put('c','\u16B2');
-        alphabet.put('q','\u16B2');
-        alphabet.put('x','\u16DD');
+        alphabet.put('f','ᚠ'); // '\u16A0'
+        alphabet.put('u','ᚢ'); // '\u16A2
+        alphabet.put('t','ᚦ'); //'\u16A6'
+        alphabet.put('a','ᚨ'); // '\u16A8'
+        alphabet.put('r','ᚱ'); // '\u16B1'
+        alphabet.put('k','ᚲ'); // '\u16B2'
+        alphabet.put('v','ᚹ'); // '\u16B9'
+        alphabet.put('g','ᚷ'); // '\u16B7'
+        alphabet.put('w','ᚹ'); // '\u16B9'
+        alphabet.put('h','ᚺ'); // '\u16BA'
+        alphabet.put('n','ᚾ'); // '\u16BE'
+        alphabet.put('i','ᛁ'); // '\u16C1'
+        alphabet.put('j','ᛃ'); // '\u16C3'
+        alphabet.put('y','ᛇ'); // '\u16C7'
+        alphabet.put('p','ᛈ'); // '\u16C8'
+        alphabet.put('z','ᛉ'); // '\u16C9'
+        alphabet.put('s','ᛋ'); // '\u16CB'
+        alphabet.put('b','ᛒ'); // '\u16D2'
+        alphabet.put('e','ᛖ'); // '\u16D6'
+        alphabet.put('m','ᛗ'); // '\u16D7'
+        alphabet.put('l','ᛚ'); // '\u16DA'
+        alphabet.put('o','ᛟ'); // '\u16DF'
+        alphabet.put('d','ᛞ'); // '\u16DE'
+        alphabet.put('c','ᚲ'); // '\u16B2'
+        alphabet.put('q','ᚲ'); // '\u16B2'
+        alphabet.put('x','ᛝ'); // '\u16DD'
 
         return alphabet;
 
