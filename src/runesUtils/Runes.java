@@ -37,6 +37,7 @@ public class Runes {
         alphabet.put('c','ᚲ'); // '\u16B2'
         alphabet.put('q','ᚲ'); // '\u16B2'
         alphabet.put('x','ᛝ'); // '\u16DD'
+        alphabet.put(' ',' '); // '\u16DD'
 
         return alphabet;
 
@@ -52,7 +53,7 @@ public class Runes {
     }
 
     // TRADUCTOR
-            public StringBuilder translate(String cadena, HashMap map) {
+    public StringBuilder translate(String cadena, HashMap map) {
 
         StringBuilder traduccion = new StringBuilder();
         cadena = cadena.toLowerCase();
